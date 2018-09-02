@@ -1,0 +1,17 @@
+welcome: |
+  alexa-midterm-election-brief.
+
+welcome_re: |
+  alexa-midterm-election-brief. How may I help you?
+
+welcome_card: |
+  alexa-midterm-election-brief is an Alexa skill written by Matt Favoino. A quick 2018  U.S. Senate Election Briefing
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  alexa-midterm-election-brief is an Alexa skill that does things. This is where the developer would normally explain how to do them.
