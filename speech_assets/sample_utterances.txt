@@ -1,0 +1,8 @@
+AllSenateRacesIntent what senate races
+AllSenateRacesIntent what races
+AllSenateRacesIntent what elections
+AllSenateRacesIntent what states
+AllSenateRacesIntent which senate races
+AllSenateRacesIntent which races
+AllSenateRacesIntent which elections
+AllSenateRacesIntent which states

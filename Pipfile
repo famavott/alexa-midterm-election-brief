@@ -39,8 +39,10 @@ sphinx_rtd_theme = "==0.1.9"
 WebOb = "==1.7.1"
 WebTest = "==2.0.25"
 Werkzeug = "==0.11.15"
+black = "*"
 
 [dev-packages]
+"flake8" = "*"
 
 [requires]
 python_version = "3.7"

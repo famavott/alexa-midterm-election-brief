@@ -1,17 +1,28 @@
 welcome: |
-  alexa-midterm-election-brief.
+  Welcome to your 2018 Senate election briefing.
+  If you would like the full briefing, say all races, or mention a specific Senate race.
 
 welcome_re: |
-  alexa-midterm-election-brief. How may I help you?
+  For a full briefing, say all races, or say a specific state for information about races there.
 
 welcome_card: |
-  alexa-midterm-election-brief is an Alexa skill written by Matt Favoino. A quick 2018  U.S. Senate Election Briefing
+  Quick Midterm Brief is an Alexa skill written by Matt Favoino. Get a quick 2018 US midterm briefing.
+
+list_senate_races: |
+  Currently, I have election information for the following Senate races: {{ senate_races }}
+  Which race would you like information for?
+
+list_senate_races_reprompt: |
+  Which race would you like information for?
+
+help_text: |
+  Quick Midterm Brief provides recent polling and election news for high-profile 2018 Senate elections.
+  You can say 'all races' to get the full briefing, or tell me a specific
+  state with a Senate race that you are interested in hearing more about.
+  What option would you like to select?
 
 stop_bye: |
   Goodbye!
 
 cancel_bye: |
   OK, goodbye!
-
-help_text: |
-  alexa-midterm-election-brief is an Alexa skill that does things. This is where the developer would normally explain how to do them.

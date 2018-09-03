@@ -1,7 +1,7 @@
 alexa-midterm-election-brief
 =============================
 
-A quick 2018  U.S. Senate Election Briefing
+A quick 2018 U.S. Senate Election briefing
 
 Setup
 -----

@@ -79,6 +79,7 @@ ENV/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+.vscode/
 
 # An Ignore for scratch and test API outputs
 test_*.json

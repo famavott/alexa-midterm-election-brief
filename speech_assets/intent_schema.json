@@ -1,6 +1,9 @@
 {
   "intents": [
     {
+      "intent": "AllSenateRacesIntent"
+    },
+    {
       "intent": "AMAZON.StopIntent"
     },
     {
